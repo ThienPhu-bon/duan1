@@ -32,5 +32,7 @@ add --> stayring area
 3.git status (xem file duoc luu chua)
 - git status
 
+4. git clone (lấy từ github về)
+- git clone + đường dẫn
 
 
