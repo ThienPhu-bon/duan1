@@ -32,3 +32,5 @@ add --> stayring area
 3.git status (xem file duoc luu chua)
 - git status
 
+
+
